@@ -9,7 +9,7 @@ pub const NAME: &str = "Interactive Brokers ForecastTrader";
 /// Venue category.
 pub const VENUE_TYPE: &str = "Financial events";
 
-/// Strategies this venue runs on the shared engine.
+/// Strategies mapped to this venue on the shared engine.
 pub const STRATEGIES: &[&str] = &[
     "Resolution Sniper",
     "Spread Farming",
