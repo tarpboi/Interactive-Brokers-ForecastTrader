@@ -17,9 +17,9 @@ These are the strategies mapped to Interactive Brokers ForecastTrader. They run 
 
 | Strategy |
 |----------|
-| 🎯 **Resolution Sniper** — 95¢ near-certainty → guaranteed $1.00 payout |
-| 📈 **Spread Farming** — a thousand 0.5¢ wins compound into one number |
-| 💰 **Market Making** — be the house, not the gambler (two-sided GTD, inventory skew) |
+| 🎯 **Resolution Sniper** — buy near-certain outcomes about to end, hold to the payout |
+| 📈 **Spread Farming** — capture the bid-ask spread, one round trip at a time |
+| 💰 **Market Making** — quote both sides, leaning away from your inventory |
 
 > Want a strategy not listed here on Interactive Brokers ForecastTrader? Adapter coverage is demand-driven — [ask](https://t.me/tarpboi).
 
